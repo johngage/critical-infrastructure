@@ -13,14 +13,14 @@ font_size: L
 # SEO
 
 site_type: Organization
-local_business_type: ''
+local_business_type: 'Education'
 org_name: ''
 description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: john.gage@gmail.com
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments
