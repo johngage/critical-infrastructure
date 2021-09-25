@@ -10,7 +10,7 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## How to decide if source data is true
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
