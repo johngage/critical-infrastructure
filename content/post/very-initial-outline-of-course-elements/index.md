@@ -12,7 +12,7 @@ image:
 
 
 * Course focus
-  		- If the course conveys the message of the book,  it outlines how to minimize the impact of climate change on the human systems that are critical for life. 
+  		- If the course conveys the message of the book,  it examines how to minimize the impact of climate change on the human systems that are critical for life. 
   		- It answers the question, "How should we think and act to mitigate climate change impact on our air, water, food, energy, shelter, information flow, emergency management
 * Intended audiences for course
   		- The course, then, is a guide to action for **practitioners**--how to decide what is true, how to assess risks and prioritize actions, how to marshall and shape coordinated action across all actors  at all levels,  how to generate and maintain public support, and how to summon and allocate necessary resources from public and private entities.\
