@@ -1,5 +1,5 @@
 ---
-title:Create syllabus
+title: Create syllabus
 linkTitle: Data Science
 summary: Importing Obsidian
 date: '2021-09-24'
