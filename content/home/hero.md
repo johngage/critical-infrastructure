@@ -19,8 +19,8 @@ cta_alt:
 design:
   background:
     gradient_angle: 0
-    gradient_start: rgb(224,223,255)
-    gradient_end: "#ff99e9"
+    gradient_start: "#ece50f"
+    gradient_end: "#99c4ff"
     text_color_light: false
 hero_media: student.svg
 ---
