@@ -1,7 +1,7 @@
 ---
-title:⚙️Create syllabus
+title:Create syllabus
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Importing Obsidian
 date: '2021-09-24'
 type: book
 ---
