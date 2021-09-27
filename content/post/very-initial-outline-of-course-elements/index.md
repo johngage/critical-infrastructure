@@ -19,6 +19,7 @@ image:
 #### This survey of materials and resources might help link readings, course offerings, groups of investigators, research results, and practical planning exercises. 
 
 - Here's the red-flag: [UN Report: 2021](https://www.un.org/en/climatechange/reports)
+- And here's some reading suggestions from the [New York Times](https://www.nytimes.com/interactive/2020/climate/climate-change-books.html?referringSource=articleShare)
 ####  Your possible Spring Course focus
   - To convey the messages of *How Safe Are We?*, I extracted some elements to link to other ideas (very preliminary playing around). I'm using you as inspiration to bring some ideas together :
     - how to minimize the impact of climate change on the built environment: **fragile human systems critical for life**. 
