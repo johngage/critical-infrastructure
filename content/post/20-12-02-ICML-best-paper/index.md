@@ -1,8 +1,10 @@
 ---
-title: Target dates for deployment
+title: Example syllabus from Saul Perlmutter and Alison Gopnik
+subtitle: Science & Sensibility & Science
 date: 2020-12-02
 ---
-
+#### Look to website for [full explanation of subject topics](https://sensesensibilityscience.berkeley.edu/): 
+#### [Alison Gopnik](https://psychology.berkeley.edu/people/alison-gopnik)
 | Class                         | Date                      | Topics                                                     | Slides       | Readings                                                                                     | Homework|   
 | ----------------------------- | ------------------------- | -------------------------------- | ------------ | -------------------------------------------------------------------------------------------- | 
 | 150 GSPP Sections in Dwinelle |                           |                                                            |              | Please read before the corresponding class period. Usually the HW will rely on the readings. | All HW's are due **1 hour before** the corresponding lecture. _Ie, HW 2.1 is due at 11AM, on Monday 1/23._ Late homework will not be accepted. HW can also be found under the bCourses "Assignments" tab.|  
