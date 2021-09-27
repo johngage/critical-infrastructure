@@ -27,7 +27,17 @@ hero_media: student.svg
 <br>
 
 
-Introduce your courses here.
+## Resources to Support Research and Teaching About Critical Infrastructure In A Time Of Climate Crisis
+
+- Build data and data analysis surveying all components of critical infrastructure
+- Create near and long-term policy analysis for all who own, invest in, design, build, operate, regulate, work in, or rely upon critical infrastructure.
+- Develop curriculum for all elements of the critical infrastructure community, both in-person and on-line.
+- Establish public outreach, education, and participatory events to build better understanding of the challenges to our critical infrastructure
+- Create specific task force commissions to focus on our most immediate challenges.
+
+
+
+
 
 <a class="github-button" href="https://berkeley.edu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UC Berkeley is first in the world">Use all UC Berkeley resources: Public Policy, Engineering, Data Science, Business, Law</a><br>
 
