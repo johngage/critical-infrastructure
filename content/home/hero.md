@@ -12,7 +12,7 @@ cta:
 widget_id: Home-Institutions
 headless: true
 weight: 10
-title: Online Course Template
+title: It's Only Going To Get Worse
 cta_alt:
   ? url
   ? label
