@@ -1,8 +1,8 @@
 ---
 widget: blank
-widget_id: Courses
+widget_id: "How is it getting worse? "
 weight: 50
-title: Ready to learn?
+title: Tools to find the truth
 subtitle: null
 design:
   columns: "1"
@@ -10,4 +10,4 @@ design:
 
 {{% cta cta_link="./course/" cta_text="Explore online courses available to all" %}}
 
-Core components explore the relationship between science and decision-making about who does what to whom to bring about the most rapid change to modify the rate of climate change.
+What you need to know to  explore science and decision-making:   who does what to whom to modify the rate of climate change.
