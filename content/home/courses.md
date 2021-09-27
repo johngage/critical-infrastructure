@@ -4,7 +4,7 @@ widget_id: recent-posts
 headless: true
 weight: 30
 title: Sites and materials for analyzing critical infrastructure dependencies
-subtitle: null
+subtitle: See recent blog post
 content:
   page_type: book
   filter_default: 0
