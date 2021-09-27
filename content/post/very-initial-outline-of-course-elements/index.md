@@ -20,6 +20,9 @@ image:
 
 - Here's the red-flag: [UN Report: 2021](https://www.un.org/en/climatechange/reports)
 - And here's some reading suggestions from the [New York Times](https://www.nytimes.com/interactive/2020/climate/climate-change-books.html?referringSource=articleShare)
+
+- And here's the foundation engineering for [resilient hazard design](https://ascelibrary.org/doi/book/10.1061/9780784415757)
+--an expensive survey, that we'll review
 ####  Your possible Spring Course focus
   - To convey the messages of *How Safe Are We?*, I extracted some elements to link to other ideas (very preliminary playing around). I'm using you as inspiration to bring some ideas together :
     - how to minimize the impact of climate change on the built environment: **fragile human systems critical for life**. 
