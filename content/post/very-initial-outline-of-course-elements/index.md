@@ -14,11 +14,13 @@ image:
 
 ## Quote from: Barack Obama, Janet Napolitano, António Guterres, Joe Biden, John Kerry, the IPCC, the Joint Chiefs of Staff, John Holdren, Stephen Chu, Jennifer Granholm, Greta Thunberg
 
-### All members of [PCAST: President's Council of Advisors on Science and Technology](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/president-biden-announces-members-of-presidents-council-of-advisors-on-science-and-technology/),  including present  and past members from Berkeley: Saul Perlmutter, Inez Fung, Bill Joy,  Birgitta Whaley, Susan Graham, Ed Penhoet, Eric Schmidt, John Holdren, Mario Molina*, Wayne Clough, Daniel Schrag, 
+### All members of [PCAST: President's Council of Advisors on Science and Technology](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/president-biden-announces-members-of-presidents-council-of-advisors-on-science-and-technology/),  including present  and past members from Berkeley--Saul Perlmutter, Inez Fung, Bill Joy,  Birgitta Whaley, Susan Graham, Ed Penhoet, Eric Schmidt, John Holdren, Mario Molina*, Wayne Clough, Daniel Schrag--agree. 
 
-[UN Report: 2021](https://www.un.org/en/climatechange/reports)
-#### Course focus
-  - To convey the message of the book,  course elements examine:
+#### This survey of materials and resources might help link readings, course offerings, groups of investigators, research results, and practical planning exercises. 
+
+- Here's the red-flag: [UN Report: 2021](https://www.un.org/en/climatechange/reports)
+####  Your possible Spring Course focus
+  - To convey the messages of *How Safe Are We?*, I extracted some elements to link to other ideas (very preliminary playing around). I'm using you as inspiration to bring some ideas together :
     - how to minimize the impact of climate change on the built environment: **fragile human systems critical for life**. 
       - Water
       - Energy 
@@ -32,7 +34,7 @@ image:
     - Question: *What organizations and institutions play central roles? Who runs them? What are their controlling goals, cultures, world-views, legal and financial environments?  *
 
 #### Course audiences
-  - The course is a guide to analysis and action for **practitioners**, who need practical tools to:
+  - The course can be a guide to analysis and action for **practitioners**, who need practical tools to:
 
      - decide what is true
     -  build projections of likely outcomes, based on causal analysis, ie, data, science and engineering
@@ -62,30 +64,31 @@ image:
 
 # Critical Infrastructure Course
 
-* Example first class; 
-  - Once everyone is in room--power out, water out, wifi blocked; SCIF containment simulation
+* What might a class do as an exercise? 
+  -SCIF containment simulation--or power out, water out, wifi blocked, batteries dying--; 
+- Deal with an unfolding situation, with assigned roles and responsibilities......and a principal shows up. Think Steve Chu arriving at the Operation Center and informing them he's going to spend several days in the room.
   - Images of [Kibera](http://kiberawater.com), Haitian encampment, the Martian:  Matt Damon in wrecked station, Space Station, lifeboat
-  - Images of street markings on Berkeley streets showing [Call -811 survey of all US streets](https://call811.com/); mapping of underground pipes in every city
+  - Images of street markings on Berkeley streets showing [Call -811 survey of all US streets](https://call811.com/); use GIS  of underground piping in a city, with dispatch choosing among specific system failures
   - [Underground: David Macaulay](https://www.amazon.com/Underground-David-Macaulay/dp/0395340659): how it works-- NY underground: make streets disappear.....
-  - list in order: how quickly do you die from
+  - list: how quickly do you die from
   		- Radiation
   		- Polluted Air
   			- Water
   			- Food
   			- Security; walls, personal defense; 
                         - Fire; Flood
-- How much do you know about what you need? 
+- How much do you know about what you need to keep systems functioning? 
   - How it works
   - What it needs
   - Who makes, operates, maintains it
-  - Use examples from home as queriee
+  - Use examples from home as practical, personal queries:
   - How much water did you use yesterday? Power? Bandwidth:? 
   - How many times were you probed? Port-scanned? 
     - Find app that shows probes in real time.  Who would know? 
     - Security scan of all class devices
   			- Tsutomu Shimomura?   Oregon design group? Where did they go? 
  - How do you learn about what you need: How do you decide?
-  		- \[[Saul Perlman]] \[[Sense, Sensibility, Science]]
+  		- \[[Saul Perlman]] \[[Sense, Sensibility, Science]] course examining decision-making with inadequate information, using available flawed tools in a democratic setting.
 - Making the Invisible Visible
   - visual metaphor: luminance, frequency range
   	- night-vision goggles
