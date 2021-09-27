@@ -1,5 +1,5 @@
 ---
-title: Major participating regulators for critical infrastructure
+title: Who's interested in surveying critical infrastructure, aside from DOD and DHS?
 subtitle: Will examine needs and approaches for each group
 date: 2020-12-01
 ---
