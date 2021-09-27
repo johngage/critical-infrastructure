@@ -1,6 +1,6 @@
 ---
-title: "Outline of support components: people and organizations"
-subtitle: Quick preliminary sketch
+title: What to do when it's getting worse
+subtitle: How to act quickly
 date: 2021-09-25T23:09:02.567Z
 summary: ""
 draft: false
@@ -10,6 +10,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+# "It's only going to get worse" 
+
+## Quote from: Barack Obama, Janet Napolitano, António Guterres, Joe Biden, John Kerry, the IPCC, the Joint Chiefs of Staff, John Holdren, Stephen Chu, Jennifer Granholm, Greta Thunberg
+
+### All members of [PCAST: President's Council of Advisors on Science and Technology](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/president-biden-announces-members-of-presidents-council-of-advisors-on-science-and-technology/),  including present  and past members from Berkeley: Saul Perlmutter, Inez Fung, Bill Joy,  Birgitta Whaley, Susan Graham, Ed Penhoet, Eric Schmidt, John Holdren, Mario Molina*, Wayne Clough, Daniel Schrag, 
+
+[UN Report: 2021](https://www.un.org/en/climatechange/reports)
 #### Course focus
   - To convey the message of the book,  course elements examine:
     - how to minimize the impact of climate change on the built environment: **fragile human systems critical for life**. 
