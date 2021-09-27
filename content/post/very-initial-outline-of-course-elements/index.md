@@ -1,56 +1,90 @@
 ---
-title: Very initial outline of course elements
-subtitle: "Highly disorganized for the moment "
+title: "Quick outline of support elements: people and organizations"
+subtitle: Quick preliminary sketch
 date: 2021-09-25T23:09:02.567Z
+summary: ""
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: screen-shot-2021-09-26-at-9.41.13-pm.png
   focal_point: Smart
   preview_only: false
 ---
+#### Course focus
+  - To convey the message of the book,  course elements examine:
+    - how to minimize the impact of climate change on the built environment: **fragile human systems critical for life**. 
+      - Water
+      - Energy 
+      - Shelter
+      - Transport
+      - Health
+      - Communications
+      - Security
 
+    - Question: *How should we think and act to mitigate climate change impact on our water, food, energy, shelter, information flow, emergency management, air quality--what people need to live in their communities*.
+    - Question: *What organizations and institutions play central roles? Who runs them? What are their controlling goals, cultures, world-views, legal and financial environments?  *
 
-* Course focus
-  		- If the course conveys the message of the book,  it examines how to minimize the impact of climate change on the human systems that are critical for life. 
-  		- It answers the question, "How should we think and act to mitigate climate change impact on our air, water, food, energy, shelter, information flow, emergency management
-* Intended audiences for course
-  		- The course, then, is a guide to action for **practitioners**--how to decide what is true, how to assess risks and prioritize actions, how to marshall and shape coordinated action across all actors  at all levels,  how to generate and maintain public support, and how to summon and allocate necessary resources from public and private entities.\
-  			- Why, what, who, when, where, how
-  		- Goldman School MPP, MPA, MPDev
-  		- UC B undergrad  (or UC-wide)
-  		- Practicioners: utilities, 
+#### Course audiences
+  - The course is a guide to analysis and action for **practitioners**, who need practical tools to:
+
+     - decide what is true
+    -  build projections of likely outcomes, based on causal analysis, ie, data, science and engineering
+    - revise projections in light of facts, as free from noise and bias as possible
+     - assess risks and prioritize actions 
+    - coordinate action across all actors  at all levels 
+    - generate and maintain public support
+    - marshall and allocate necessary resources from public and private entities.
+    - Answer:  *Why, what, who, when, where, how, how much*
+
+  - Immediate audience 
+    - Goldman School
+      - (MPP), (MPA), (MDP)
+      - (PhD)
+    - UCB grad and undergrad  (or UC-wide)
+    - Practitioners:
+
+      - [PG&E](https://www.pge.com/)
+      - [EBMUD](https://www.ebmud.com/)
+      - AT&T 
+      - City and County Planning: [ABAG:Association of Bay Area Governments](https://abag.ca.gov/) (now chaired by Berkeley Mayor Jesse Arreguín 
+       - [Sonic Fiber](https://www.sonic.com/)
+      - [California State Water Resources Control Board](https://www.waterboards.ca.gov/)
+    - Professional Societies
+      - [ASCE: American Society of Civil Engineers](https://www.asce.org/)
+      - [ASCE: Infrastructure Resilience Division](https://www.asce.org/communities/institutes-and-technical-groups/infrastructure-resilience-division)
 
 # Critical Infrastructure Course
 
-* Example
-  		- Once everyone is in room--power out, water out,  wifi blocked; SCIF containment
-  		- Images of Kibera,  Haitian encampment, the Martian, Space Station, lifeboat
-  		- Images of street markings on Berkeley streets showing 1-811? mapping of underground pipes
-  			- image of NY under ground: make streets disappear.....
-  		- list in order: how quickly do you die from
-  			- Radiation
-  			- Air
+* Example first class; 
+  - Once everyone is in room--power out, water out, wifi blocked; SCIF containment simulation
+  - Images of [Kibera](http://kiberawater.com), Haitian encampment, the Martian:  Matt Damon in wrecked station, Space Station, lifeboat
+  - Images of street markings on Berkeley streets showing [Call -811 survey of all US streets](https://call811.com/); mapping of underground pipes in every city
+  - [Underground: David Macaulay](https://www.amazon.com/Underground-David-Macaulay/dp/0395340659): how it works-- NY underground: make streets disappear.....
+  - list in order: how quickly do you die from
+  		- Radiation
+  		- Polluted Air
   			- Water
   			- Food
-  			- Security; walls, personal defense, strict hierarchy; captain; physical strength, Alpha
-* How much do you know about what you need? 
-  		- How it works
-  		- What it needs
-  		- Who makes, operates, maintains it
-  		- Use examples from home as queriee
-  			- How much water did you use yesterday? Power? Bandwidth:? 
-  			- How many times were you probed? Port-scanned? 
-  				- Find app that shows probes in real time.  Who would know? 
-  				- Security scan of all class devices
-  			- Tsutomu?   Oregon? Where did they go? 
-* How do you learn about what you need: How do you decide?
+  			- Security; walls, personal defense; 
+                        - Fire; Flood
+- How much do you know about what you need? 
+  - How it works
+  - What it needs
+  - Who makes, operates, maintains it
+  - Use examples from home as queriee
+  - How much water did you use yesterday? Power? Bandwidth:? 
+  - How many times were you probed? Port-scanned? 
+    - Find app that shows probes in real time.  Who would know? 
+    - Security scan of all class devices
+  			- Tsutomu Shimomura?   Oregon design group? Where did they go? 
+ - How do you learn about what you need: How do you decide?
   		- \[[Saul Perlman]] \[[Sense, Sensibility, Science]]
-* Making the Invisible Visible
-  		- visual metaphor: luminance, frequency range
-  			- night-vision goggles
-  			- instrumentation to show reality; cosmologists, astronomers
-  			- psychological experiments to show \[[Noise]],  slow-walking; 
+- Making the Invisible Visible
+  - visual metaphor: luminance, frequency range
+  	- night-vision goggles
+  	- instrumentation to show reality; cosmologists, astronomers
+ - [**Daniel Kahneman** ](https://www.youtube.com/watch?v=5CFjERpwFys)
+   - psychological experiments to show[[Noise]] ,  slow-walking; 
   		- audio metaphor: making the inaudible audible
   		- tasting the air....dog olofactory--Covid, cancer, molecules in air, water-- 2.5 micron--
   		- simply by making the invisible visible does not mean that humans 
@@ -60,17 +94,15 @@ image:
 
 * see the flows
 * know the flows
-* all the flows are lost --not understandable, not interrelated (active verb)
+* Small intervention: results in all flows lost --without "seeing" interactions, not understandable, not interrelated (active verb)
 * is vs do; am vs act; noun vs verb, passive vs active; Fowler; EB White;
-* scale: be\[[ Edward O Wilson]]; 
-* become "visonary": become \[[Richard Feynman]] ; Kahneman; 
+- [EO Wilson: Save Half Earth](https://eowilsonfoundation.org/)
+* scale: [[ Edward O Wilson]]; 
+* become "visonary": become \[[Richard Feynman]] ; Daniel Kahneman; 
 * extend understanding of ♲; 
 
 ### Tools
 
-* ```
-
-  ```
 
 ### Actions
 
@@ -82,67 +114,100 @@ image:
 * Private
 
 ### Who is a resource?
+  - All participants in Bay Area [**Resilient By Design** competition](http://www.resilientbayarea.org/#:~:text=A%20year%2Dlong%20collaborative%20design,severe%20storms%2C%20flooding%20and%20earthquakes.)
+     - https://www.resilientbayarea.org/
 
-* Current faculty in relevant disciplines
-  		- Engineering
-  		- Chemistry
-  		- Physics
-  		- Biochem, bioengineering
-  		- ? Econ, sociology, polysci, psych, 
-* Retired employees of 
-  		- ATT
-  		- PGE
-  		- EBMUD
-  		- Verizon
-  		- Airports
-  		- CalTrans
-  		- Cities of Berkeley, Oakland, Alameda, Emeryville, Richmond
-  		- All participants in Bay area design competition
-  		- County of Alameda, Contra Costa, 
-  		- UC
-  			- faculty; 
-  			- professional staff; 
-  			- labs; 
-  			- LBL; 
-  			- Cross-index UCB grads with employers; use alumni association records, Berkeley fund lists; 
-  			- Technology transfer offices: get all of them, from all universities, who's job is to track faculty innovations; 
-  		- Create web site with people lists----can cross with political lists, voliunteer lists, NGO lists: ASK KATE
-  		- DOD
-  		- All Utilities
-* UCB course assignments should be coordinated to build on class assignments that are relevant to infrastructure
-  		- CED assignments in urban design
-  		- Urbanism faculty: dig up old lists of cousess
-  		- Jupyter notebook special 800 courses
+* **Current UCB, Stanford faculty** in relevant disciplines: see individual pages for top ten in each department, in development
+  - Engineering
+    - Environmental Engineering
+      - Kara Nelson
+    - Chem Eng
+  - Chemistry
+      - David Sedlak
+  - Physics
+  - Biochem, bioengineering
+  - Econ, sociology, polysci, psych
+   - College of Envionmental Design: Urban Design
+      - [Kristina Hill-Sea Level Rise](https://ced.berkeley.edu/events-media/news/ced-associate-professor-kristina-hill-discusses-sea-level-rise-in-a-climate)
+     - [Paul Waddell: UrbanSim](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)
+
+  * UCB course assignments should be coordinated to build on class assignments that are relevant to infrastructure
+    - CED assignments in urban design
+    - Urbanism faculty: dig up old lists of cousess
+    - Data Science: All Jupyter notebooks created by special 800 courses by department
+
+* **Retired employees** of 
+  - ATT
+  - PGE
+  - EBMUD
+  - Verizon
+  - Airports, BART, rail, 
+  - CalTrans
+  - Cities 
+    - Berkeley, 
+    - Oakland, Alameda, Emeryville, Richmond
+
+  - County of Alameda, Contra Costa, 
+  - UCB --and all 10 state-wide; CSUS; Community Colleges;
+    - faculty; 
+    - professional staff; 
+    - labs; 
+    - LBL; 
+    - Cross-index UCB grads with employers; use alumni association records, Berkeley fund lists; 
+    - Technology transfer offices from all campuses: get all of them, from all universities, who's job is to track faculty innovations; 
+    
+  
+
 * Engineering Societies
-  		- Emergency and Disaster Society: who are they? Meet at I-House
-  		- IEEE
-  		- Mech Eng
-  		- Civil Eng
-  		- Environ Eng
+  - ASCE Resilience: attendee list- 2019 Meet at I-House
+   - IEEE
+   - Mech Eng
+   - Civil Eng
+   - Environ Eng
+        
+  
+  - EE
+ - Biden Transition team members
+   - DOD
+   - DHS
+   -- Create web site with people lists----can cross with political lists, volunteer lists, NGO lists: ASK KATE
+
 
 ### Case Studies
 
-* German town that is energy self-sufficient
-* Total Water Reuse towns: SF PUC
-* plans for \[[David Warner]] fire prevention in urban-wild perimeter
+* [Freiberg: German town that is energy self-sufficient](https://www.irishtimes.com/life-and-style/travel/europe/what-s-it-like-to-live-in-a-truly-green-city-ask-these-germans-1.4519906)
+* Total Water Reuse towns: CA 10,00 water districts: SEE Kara Nelson and David Sedlak chapter in State Plan for Water Board;
+  - SF PUC
+  - Orange County WD
+* plans for \[[David Warner]] fire prevention in urban-wild perimeter with UCB faculty, Chinese money: Napa and Lake Counties
 * [ Kibera](kiberawater.com)
-  		- All global slums: use everything
-* Design of \[[Command and Control]] centers
-  		- Military: Navy screens in San Diego
-  			- visual, with audio alerts for moving objects, projected collisions
-  		- Utilities
-  			- California Transmission Command
-  			- PG&E: E and G
-  			- California Water Project
-  			- San Francisco PUC building monitoring of use and reuse
-  		- Amazon logistics
-  		- Cyberterrorism Command
-  		- National Targeting Command
-  		- Space Junk monitoring
-  		- Seismic detection of underground tests
-  		- 
+  - All global urban slums: 2 billion people use everything they can get now...can teach the rich
+  - Global rural: not drought or flood resilient
+  - Global island and peninsula: 
+  - [ICLEI: Local Cities for Sustainability](https://www.iclei.org/)
+
+* Design of military and civilian [[Command and Control]] centers
+  - Military: Navy screens in San Diego; Research Center; 
+  - Coast Guard
+    - visual, with audio alerts for moving objects, projected collisions
+  - Utilities
+    - [California Independent System Operator: Power Transmission Command](https://www.caiso.com/)
+    - PG&E: E and G
+    - California Water Project
+    - San Francisco PUC building monitoring of use and reuse
+    - Amazon logistics
+    - Cyberterrorism Command
+    - National Targeting Command
+    - Space Junk monitoring
+    - Seismic detection of underground tests
+    - Pacific Command : Camp Smith underground: 
+      -  submarine access
+      - Honolulu traffic light control: tunnel; 
+   
 * Swiss Re
-* ESRI: all GIS monitoring sites	
+* [ESRI: all GIS sites world-wide](https://www.esri.com/en-us/home)
+  - Call **Jack Dangermond**
+  - 	
 
 ### Trace the flows
 
@@ -159,17 +224,24 @@ image:
 
 ### Three parts
 
-* physical
-* network
+* physical flow
+* network flow
 * thought pattern
 * money flow
 * decision flow
 
-### Control
-
-* Valves
-* Diverters
-* Channels
-  	- \[[fiber-in-pipe]]
+### Control of all **Continuity Infrastructure**: Common Elements
+  - Fiber
+  - Water
+  - Waste Water
+  - Power
+  - Gas
+  - Rail
+  - Pipelines
+  - Command and Control
+    * Valves
+    * Diverters
+    * Channels
+     - \[[fiber-in-pipe]]
   		- [Fiber-in-Gas](https://www.lightwaveonline.com/fttx/cables-enclosures/article/16648022/live-gas-lines-to-carry-energy-and-information)
-  -!\[[JG 2021-09-25 09.26.excalidraw]]
+  - !\[[JG 2021-09-25 09.26.excalidraw]]
