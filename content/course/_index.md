@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+We are building an international reference of courses provided by global universities for all to participate in.
