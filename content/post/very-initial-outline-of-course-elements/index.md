@@ -55,6 +55,8 @@ image:
       - [PG&E](https://www.pge.com/)
       - [EBMUD](https://www.ebmud.com/)
       - AT&T 
+      - California Public Utilities Commission
+      - NARUC (see elsewhere) 
       - City and County Planning: [ABAG:Association of Bay Area Governments](https://abag.ca.gov/) (now chaired by Berkeley Mayor Jesse Arreguín 
        - [Sonic Fiber](https://www.sonic.com/)
       - [California State Water Resources Control Board](https://www.waterboards.ca.gov/)
