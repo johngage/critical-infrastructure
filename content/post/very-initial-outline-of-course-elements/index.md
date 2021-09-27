@@ -1,5 +1,5 @@
 ---
-title: "Quick outline of support elements: people and organizations"
+title: "Outline of support components: people and organizations"
 subtitle: Quick preliminary sketch
 date: 2021-09-25T23:09:02.567Z
 summary: ""
