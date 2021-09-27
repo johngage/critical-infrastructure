@@ -132,10 +132,10 @@ image:
 * **Current UCB, Stanford faculty** in relevant disciplines: see individual pages for top ten in each department, in development
   - Engineering
     - Environmental Engineering
-      - Kara Nelson
+      - [Kara Nelson](https://ce.berkeley.edu/people/faculty/nelson)
     - Chem Eng
   - Chemistry
-      - David Sedlak
+      - [David Sedlak](https://ce.berkeley.edu/people/faculty/sedlak)
   - Physics
   - Biochem, bioengineering
   - Econ, sociology, polysci, psych
