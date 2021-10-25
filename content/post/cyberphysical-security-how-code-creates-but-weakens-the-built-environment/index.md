@@ -2,6 +2,16 @@
 title: "Cyberphysical Security: how code creates, but weakens, the built environment"
 subtitle: "Bringing design documents to life: BIM, Brick, SCADA, VHDL"
 date: 2021-10-25T21:47:12.349Z
+summary: >-
+  In computing, logic in hardware and logic in software are conceptually the
+  same.  Over time, logic in software moved to hardware for speed. Logic in
+  hardware moves to software for testing and verification.
+
+
+  The built environment has been hardware.....built according to drawings, intuition, and some simulation. That is changing, as future and existing infrastructure is converted to software descriptions to enable coherence, interaction, and extensibility verification.
+
+
+  In the end, this will be a revolution in maintenance......real-time monitoring of stocks and flows, revealing performance and vulnerability audits.
 draft: false
 featured: false
 image:
