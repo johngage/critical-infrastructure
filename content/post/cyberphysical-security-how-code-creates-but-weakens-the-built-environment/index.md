@@ -5,13 +5,25 @@ date: 2021-10-25T21:47:12.349Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: screen-shot-2021-10-25-at-4.14.44-pm.png
   focal_point: Smart
   preview_only: false
 ---
 ### How systems are described as executable code
 
-Emergene of metadata systems to develop interoperability among disparate systems, e.g., Brick
+Emergene of metadata systems to develop interoperability among disparate systems, e.g., Brick, ASHRAE 223P;
+
+Need to capture the interrelationships as:
+
+* Composition: what contains what
+* Connection, or topology: what connects to what. Needs to capture direction of flow; direction of information; temporal order;
+
+  * Directed Acyclic Graphs for control
+  * Cyclic graphs for interactions
+
+Examples of existing systems for thousands of buildings
+
+* Resource Description Framework (RDF): graph nodes; 
 
 ###### Chips
 
