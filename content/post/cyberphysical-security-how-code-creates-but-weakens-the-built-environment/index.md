@@ -14,10 +14,13 @@ summary: >-
   In the end, this will be a revolution in maintenance......real-time monitoring of stocks and flows, revealing performance and vulnerability audits.
 draft: false
 featured: false
+authors:
+  - JG
 image:
   filename: screen-shot-2021-10-25-at-4.14.44-pm.png
   focal_point: Smart
   preview_only: false
+  caption: From Gabriel Fierro Ph.D. 2020
 ---
 ### How systems are described as executable code
 
