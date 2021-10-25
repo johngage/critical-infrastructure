@@ -11,6 +11,8 @@ image:
 ---
 ### How systems are described as executable code
 
+Emergene of metadata systems to develop interoperability among disparate systems, e.g., Brick
+
 ###### Chips
 
 ###### Boards
@@ -29,7 +31,8 @@ image:
 
   * Existing communications protocols linking SCADA and other controllers to pumps, valves, transformers, switches:  all the elements of critical infrastructure
 
-    * BACnet, Modbus, LonTalk or OPC
+    * Building Management Systems: BACnet, Modbus, LonTalk or OPC
+    * IoT: Bluetooth, WiFi, Zigbee, Enocean, Thread
   * HVAC: vents, piping, air handling--ASHRAE
   * Lighting
   * Water
