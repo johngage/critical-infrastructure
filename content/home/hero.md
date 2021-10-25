@@ -25,7 +25,7 @@ design:
     text_color_light: false
 hero_media: student.svg
 ---
-# How Hard Infrastructure and Soft Code and Designs Merge in Cyberphysical Systems
+# How Hard Infrastructure and Soft Code Merge in Cyberphysical Systems
 
 Most recent update: Monday, October 25, 2021: Introducing software-defined buildings, water and power systems.
 
