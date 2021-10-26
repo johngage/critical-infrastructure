@@ -12,6 +12,8 @@ image:
 ---
 ## Four Locations to model and build 
 
+<br>
+
 * **Blossom Street Neighborhood Association: Fruitvale, Oakland, CA**
 
   * First site to combine Brick+ building modeling software with actual construction and building operation
