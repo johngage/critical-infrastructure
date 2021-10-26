@@ -7,7 +7,10 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Teams and Courses
+  - name: Projects
+    url: '/projects'
+    weight: 15
+  - name: Developing Courses
     url: '/course'
     weight: 20
     identifier: courses
@@ -15,7 +18,7 @@ main:
     url: '/course/example/'
     weight: 10
     parent: courses
-  - name: Posts and Updates
+  - name: Current Posts
     url: '/post'
     weight: 30
   - name: Development Team
