@@ -1,7 +1,7 @@
 ---
 title: "Ecoblock: Oakland, Berkeley, Kibera, Nairobi projects"
 subtitle: Building system models by creating all components of systems built for humans
-date: 2021-10-25T23:35:45.925Z
+date: 2021-10-26T00:48:44.791Z
 draft: false
 featured: false
 external_link: ". "
