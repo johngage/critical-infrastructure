@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Four Locations to model and build 
+## Four Locations to model and build from model
 
 <br>
 
