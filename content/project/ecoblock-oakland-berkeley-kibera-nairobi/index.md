@@ -1,5 +1,6 @@
 ---
-title: "Ecoblock: Oakland, Berkeley, Kibera, West Pokot Projects"
+title: "Ecoblock: Oakland, Berkeley, Kibera, West Pokot, Richmond Field Station
+  Projects"
 subtitle: Building system models by creating all components of systems built for humans
 date: 2021-10-26T00:48:44.791Z
 draft: false
