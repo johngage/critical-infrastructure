@@ -26,4 +26,4 @@ main:
     weight: 60
     - name: RISE Initiative
     url: '/contact'
-    weight: 60
+    weight: 70
