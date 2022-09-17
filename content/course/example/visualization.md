@@ -21,7 +21,7 @@ Learn how to visualize data with Plotly.
 ## Quiz
 
 {{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Refer to Fernando Pérez lecture on color maps to reflect human vision nonlinearities.
 {{< /spoiler >}}
 
 {{< spoiler text="Write Plotly code to render a bar chart" >}}
