@@ -6,6 +6,7 @@ date: 2022-09-17T00:53:57.411Z
 ---
 * Public policy researchers
 * Public policy students
+* Engineering: ontology; BRICK
 * Active governmental participants at local, city, county, state and national levels
 * Private infrastructure firms: comms, water, power, information, compute, cloud
 * Engineering faculties from global research universities: 🇯🇵 🇬🇧 🇺🇸 🇨🇳 🇫🇷 🇨🇭 
