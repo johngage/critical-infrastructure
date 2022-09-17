@@ -21,6 +21,9 @@ image:
 
 3.  **Kibera Town Centre, Kibera, Nairobi, Kenya**
     * First site to test 8 years of time series data for pumps, tanks, and energy flows with Mortar model of complete system flows
+
 4. Future site: Kapenguria Peace Academy: remote rural Kenyan school with classrooms, dormitory, kitchen, and crop areas
 
-These locations are the practical sites to test emerging cyberphysical models of the built environment. Each, in its own way, is on a trajectory to Net Zero energy, water, waste, and food flows.
+5. Richmond Field Station: existing sensing infrastructure
+
+These locations are practical sites to test emerging cyberphysical models of the built environment. Each, in its own way, is on a trajectory to Net Zero energy, water, waste, and food flows.
