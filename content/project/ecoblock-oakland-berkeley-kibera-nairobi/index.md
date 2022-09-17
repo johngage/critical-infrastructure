@@ -10,13 +10,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Four Locations to model while building
+## Four Locations to model while building representations of infrastructure
 
 <br>
 
 1. **Blossom Street Neighborhood Association: Fruitvale, Oakland, CA**
     * First site to combine Brick+ building modeling software with actual construction and building operation
+
 2.  Future site in Berkeley, CA
+
 3.  **Kibera Town Centre, Kibera, Nairobi, Kenya**
     * First site to test 8 years of time series data for pumps, tanks, and energy flows with Mortar model of complete system flows
 4. Future site: Kapenguria Peace Academy: remote rural Kenyan school with classrooms, dormitory, kitchen, and crop areas
