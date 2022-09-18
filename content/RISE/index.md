@@ -21,15 +21,18 @@
 - 
 
 
-## Berkeley Campus Initiatives
-|Berkeley International Initiatives||||
+## Berkeley International Initiatives
+|Berkeley International Initiatives| URL|Funding|Emphasis|
 | ---------------- | --- | ------- | -------- |
-|Global Metropolitan Studies||||
-|Center for Information Technology Research in the Interest of Society||||
-|Tsinghua-Berkeley-Shenzhen Institute||||
+|Global Metropolitan Studies|https://metrostudies.berkeley.edu/|||
+|Center for Information Technology Research in the Interest of Society|https://citris-uc.org/|||
+|Tsinghua-Berkeley-Shenzhen Institute|https://globalengagement.berkeley.edu/tsinghua-uc-berkeley-shenzhen-institute-tbsi|||
 |SinBerBEST|https://sinberbest.berkeley.edu/|||
 
 ### Additional Campus Initiatives
-- School of Journalism: Hyperlocal Reporting initiatives
+|Berkeley International Initiatives| URL|Funding|Emphasis|
+| ---------------- | --- | ------- | -------- |
+|School of Journalism: Investigative Reporting |https://journalism.berkeley.edu/programs/mj/investigative-reporting/|||
+|School of Journalism: Hyperlocal|https://journalism.berkeley.edu/state-funds-berkeley-journalism-25-million-to-strengthen-californias-local-news-coverage/|||
 - School of Business: 
 - School of Public Policy: 
