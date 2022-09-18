@@ -22,12 +22,13 @@
 
 
 ## Berkeley Campus Initiatives
-|Berkeley International Initiatives|||
+|Berkeley International Initiatives||||
 | ---------------- | --- | ------- | -------- |
-|Global Metropolitan Studies|||
-|Center for Information Technology Research in the Interest of Society|||
-|Tsinghua-Berkeley-Shenzhen Institute|||
-|SinBerBEST|https://sinberbest.berkeley.edu/||
+|Global Metropolitan Studies||||
+|Center for Information Technology Research in the Interest of Society||||
+|Tsinghua-Berkeley-Shenzhen Institute||||
+|SinBerBEST|https://sinberbest.berkeley.edu/|||
+
 ### Additional Campus Initiatives
 - School of Journalism: Hyperlocal Reporting initiatives
 - School of Business: 
