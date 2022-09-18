@@ -1,11 +1,11 @@
 # Materials relating to RISE: 
-{{% staticref "uploads/RISE initiative.pdf" %}}     
+{{% staticref "uploads/RISE initiative.pdf" %}}View RISE Goals{{% /staticref %}}      
 - New Berkeley infrastructure initiative, supporting many departments, institutes, and initiatives
 - Goals
   -   Create new Center for Resilient Infrastructure  
   -   Rebuild the research link between Berkeley faculty and physical management of Berkeley and Richmond Field Station infrastructure
   -   Develop an international, inter-university research consortium focused on the cyberphysical interaction
-- Statement of RISE Goals {{% /staticref %}} 
+- 
 ## Berkeley Centers of Infrastructure Resiliency Research
  |Berkeley Centers of Infrastructure Resiliency Research | URL | Funding | Emphasis |
 | ---------------- | --- | ------- | -------- |
