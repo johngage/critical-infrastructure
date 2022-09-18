@@ -13,11 +13,14 @@
 |Berkeley Water Center|https://bwc.berkeley.edu/||
 |Institute of Transportation Studies (ITS)|https://its.berkeley.edu/||
 |SimCenter|https://simcenter.designsafe-ci.org/||https://simcenter.designsafe-ci.org/media/filer_public/a8/e5/a8e56717-6c92-444e-8aa3-296c23a8e210/nheri_simcenter_state_of_the_art_report_2nd_edition_2021.pdf|
-|SwarmLab|https://swarmlab.berkeley.edu/home|||
+|SwarmLab|https://swarmlab.berkeley.edu/home||https://swarmlab.berkeley.edu/About|
 |Center for Smart Infrastructure (CSI)|||
 |Blum Center for Developing Economies|||
 
 ### Additional research entities
+- School of Public Health
+- Center for African Studies
+- Center for European Studies
 - 
 
 
