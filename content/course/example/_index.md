@@ -1,6 +1,6 @@
 ---
 title: Create syllabus
-linkTitle: Data Science
+linkTitle: Data Science for Cyberphysical Analysis
 summary: Importing Obsidian
 date: '2021-09-24'
 type: book
@@ -18,7 +18,7 @@ type: book
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+The demand for skilled data science practitioners is rapidly growing beyond data analysis to direct interaction with physical infrastructure.
 
 ## Courses in this program
 
@@ -35,7 +35,7 @@ There are no prerequisites for the first course.
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+Continuously, at your own pace. Similar to UC Berkeley Data Science 8.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
