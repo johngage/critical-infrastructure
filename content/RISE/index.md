@@ -1,10 +1,11 @@
 # Materials relating to RISE
-- New infrastructure initiative, combining many departments and institutes
+- New infrastructure initiative, supporting many departments, institutes, and initiatives
 - Description of goals
-- This is showing the uploaded PDF from Prof. Soga
 -   Create new Center for Resilient Infrastructure 
+-   Rebuild the research link between Berkeley faculty and physical management of Berkeley and Richmond Field Station infrastructure
+-   Develop an international, inter-university research consortium focused on the cyberphysical interaction
 -   {{% staticref "uploads/RISE initiative.pdf" %}}  
--   Download goals {{% /staticref %}} 
+-   Statement of Goals {{% /staticref %}} 
 ## Berkeley Centers of Infrastructure Resiliency Research
  |Berkeley Centers of Infrastructure Resiliency Research | URL | Funding | Emphasis |
 | ---------------- | --- | ------- | -------- |
@@ -16,7 +17,7 @@
 |Center for Smart Infrastructure (CSI)|||
 |Blum Center for Developing Economies|||
 
-### Additional entities
+### Additional research entities
 - 
 
 
@@ -25,7 +26,7 @@
 - Center for Information Technology Research in the Interest of Society
 - Tsinghua-Berkeley-Shenzhen Institute
 - SinBerBEST
-### Additional Initiatives
+### Additional Campus Initiatives
 - School of Journalism: Hyperlocal Reporting initiatives
 - School of Business: 
 - School of Public Policy: 
