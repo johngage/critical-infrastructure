@@ -15,6 +15,7 @@ main:
     weight: 20
     identifier: courses
   - name: Data science
+    parent: courses
     url: '/course/example/'
     weight: 10
   - name: Cyberphysical Design and Analysis
