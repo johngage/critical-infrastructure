@@ -17,7 +17,9 @@ main:
   - name: Data science
     url: '/course/example/'
     weight: 10
+  - name: Cyberphysical Design and Analysis
     parent: courses
+    url: '/course/cyberphysical/'
   - name: Current Posts
     url: '/post'
     weight: 30
