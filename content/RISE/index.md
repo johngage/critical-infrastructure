@@ -3,7 +3,7 @@
 - New Berkeley infrastructure initiative, supporting many departments, institutes, and initiatives
 - Goals
   -   Create new Center for Resilient Infrastructure  
-  -   Rebuild the research link between Berkeley faculty and Berkeley Vice-Chancellor for Administration of Facilities physical management of Berkeley and Richmond Field Station infrastructure
+  -   Rebuild the research link between Berkeley faculty and the Berkeley Vice-Chancellor for Administration for physical management of Berkeley and Richmond Field Station infrastructure [Leadership](https://vca.berkeley.edu/about/executive-leadership-team)
   -   Develop an international, inter-university research consortium focused on the cyberphysical interaction
 - 
 ## Berkeley Centers of Infrastructure Resiliency Research
