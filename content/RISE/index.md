@@ -1,5 +1,5 @@
 # Materials relating to RISE: 
-{{% staticref "uploads/RISE initiative.pdf" %}}View RISE Goals{{% /staticref %}}      
+{{% staticref "uploads/RISE initiative.pdf" %}}View statement of RISE Goals{{% /staticref %}}      
 - New Berkeley infrastructure initiative, supporting many departments, institutes, and initiatives
 - Goals
   -   Create new Center for Resilient Infrastructure  
