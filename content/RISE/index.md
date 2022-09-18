@@ -1,10 +1,11 @@
-# Materials relating to RISE
+# Materials relating to RISE: 
 - New Berkeley infrastructure initiative, supporting many departments, institutes, and initiatives
 - Goals
   -   Create new Center for Resilient Infrastructure  
   -   Rebuild the research link between Berkeley faculty and physical management of Berkeley and Richmond Field Station infrastructure
   -   Develop an international, inter-university research consortium focused on the cyberphysical interaction
--   {{% staticref "uploads/RISE initiative.pdf" %}}     Statement of Goals {{% /staticref %}} 
+{{% staticref "uploads/RISE initiative.pdf" %}}     
+-Statement of RISE Goals {{% /staticref %}} 
 ## Berkeley Centers of Infrastructure Resiliency Research
  |Berkeley Centers of Infrastructure Resiliency Research | URL | Funding | Emphasis |
 | ---------------- | --- | ------- | -------- |
@@ -17,6 +18,7 @@
 |Blum Center for Developing Economies|||
 
 ### Additional research entities
+- Berkeley riselab: https://rise.cs.berkeley.edu/: REAL-TIME INTELLIGENT SECURE EXPLAINABLE SYSTEMS
 - School of Public Health
 - Center for African Studies
 - Center for European Studies
