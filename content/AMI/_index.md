@@ -23,10 +23,10 @@ Current AMI depend on outdated technology, both in physical sensors, communicati
  - Ubiquity of home WiFi installation
  - Homes passed by: power, cable, fiber (Sonic, ATT), use of abandoned gas lines, intelligent sewer laterals, water column transmission
 - Data Acquisition Partners: Vehicles equipped with data acquisition radio
--   City parking monitoring vehicles
--   AC Transit
--   City police patrols
--   Municipal trash collection vehicles
--   PGE maintenance
--   Amazon
--   FedEX
+  -   City parking monitoring vehicles
+  -   AC Transit
+  -   City police patrols
+  -   Municipal trash collection vehicles
+  -   PGE maintenance
+  -   Amazon
+  -   FedEX
