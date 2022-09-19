@@ -5,6 +5,7 @@ Current AMI depend on outdated technology, both in physical sensors, communicati
 - In-meter computation: advances in processsing power, reliability
 - Inter-meter data consolidation: Near-range communications
 - Encoding advances: density, security
+- Spatial measurement: LiDAR, ground-penetrating radar, mechanical rigidity pipe sonar; water column signal transmission with signal processing;
 ### Architectural Advances
 - LAN
 - WAN
