@@ -28,7 +28,7 @@ education:
   - course: Business Administration
     institution: Harvard Business School
     year: 1970
-  - course: BSc: Natural Resources
+  - course: BSc Natural Resources
     institution: UC Berkeley
     year: 1975
 
