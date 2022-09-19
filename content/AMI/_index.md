@@ -1,0 +1,25 @@
+AMI Initiatives
+- Sensor Advances
+- Meter Processsing
+- Inter-meter data consolidation
+- Encoding
+- LAN
+- WAN
+- Physical network
+  - Radio frequency spectrum
+  - Freespace optical
+  - Light frequencies
+  - fiber network
+  - Store and forward repositories
+  - PG&E smart meter RF network
+  - Sonic
+  - Xfinity
+  - ATT
+- Data Acquisition Partners: Vehicles equipped with data acquisition radio
+-   City parking monitoring vehicles
+-   AC Transit
+-   City police patrols
+-   Municipal trash collection vehicles
+-   PGE maintenance
+-   Amazon
+-   FedEX
