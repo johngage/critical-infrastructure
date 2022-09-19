@@ -16,21 +16,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cyberphysical Infrastructure
+- Computational Design
+- Water Quality Sensing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Public Policy
+    institution: Harvard Kennedy School
+    year: 1972
+  - course: Business Administration
+    institution: Harvard Business School
+    year: 1970
+  - course: BSc: Natural Resources
+    institution: UC Berkeley
+    year: 1975
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:john.gage@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
