@@ -30,3 +30,6 @@ main:
   - name: RISE Initiative
     url: '/RISE'
     weight: 70
+  - name: AMI Design
+    url: '/AMI'
+    weight: 80
