@@ -5,11 +5,11 @@ title: John Gage
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: explore useful technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UC Berkeley Public Policy Advisory Board
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
