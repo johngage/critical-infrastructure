@@ -25,7 +25,8 @@ design:
     text_color_light: false
 hero_media: student.svg
 ---
-# Tools for Infrastructure Inventory, Design, and Resilience
+# Critical Infrastructure In A Time Of Climate Crisis
+## Tools for Infrastructure Inventory, Design, and Resilience
 
 Update: Thursday, September 22, 2022
 
@@ -35,11 +36,11 @@ Update: Thursday, September 22, 2022
 - This site will evolve as new systems of data capture and model design emerge. We draw from the disciplines of construction, civil engineering, urban design, environmental engineering, architecture, data science, and knowledge management.
 <hr>
 
-# How Hard Infrastructure and Soft Code Merge in Cyberphysical Systems
+# Hard Infrastructure and Soft Code Merge in Cyberphysical Systems
 
-## Steps: 
-- Examine software-defined buildings and infrastructure for strengths and vulnerabilities. 
+## Examine software-defined buildings and infrastructure for strengths and vulnerabilities. 
 - Design an inventory of building and infrastructure stocks and flows. 
+- Create software definitions and a digital model for each structure.
 - Build models of decentralized water and power systems to serve that inventory.
 - Generate a scope of work for each structure, each block, each neighborhood, each city, each utility. And, by extension, an outline of practices for builders, contractors, city planning entities, utility planners, and public utility commissions.
 - Develop principles and practices of secure design. 
@@ -48,8 +49,7 @@ Update: Thursday, September 22, 2022
 
 <br>
 
-## Resources to Support Research and Teaching About Critical Infrastructure In A Time Of Climate Crisis: Initial Steps
-
+# Needed Resources to Support Research and Teaching About Critical Infrastructure In A Time Of Climate Crisis
 * Build data and data analysis surveying all components of critical infrastructure
 * Create near and long-term policy analysis for all who own, invest in, design, build, operate, regulate, work in, or rely upon critical infrastructure.
 * Develop curriculum for all elements of the critical infrastructure community, both in-person and on-line: utility management; journalists; regulators; operators;
