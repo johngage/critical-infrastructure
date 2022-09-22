@@ -34,6 +34,7 @@ Update: Thursday, September 22, 2022
 - From this, we can analyze each structure, and the systems we build to support them, to guide investments in maintenance, repair, upgrade, redesign, demolition, and reconstruction. 
 - This site will evolve as new systems of data capture and model design emerge. We draw from the disciplines of civil engineering, urban design, environmental engineering, architecture, data science, and knowledge management.
 <hr>
+
 # How Hard Infrastructure and Soft Code Merge in Cyberphysical Systems
 
 ## Steps: 
