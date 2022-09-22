@@ -58,7 +58,7 @@ Update: Thursday, September 22, 2022
 * Focus on NARUC: the United States organization of Public Utility Commissioners, whose standards combine with those of EU, China, and India to form international standards.
 * Focus on international building codes.
 * Focus on emerging technologies of energy generation and storage, water conservation and reuse, and utility tariff structure to encourage efficiency and conservation.
-
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://berkeley.edu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UC Berkeley is first in the world">Use all UC Berkeley resources: Public Policy, Engineering, Data Science, Business, Law</a><br>
 
-<a class="github-button" href="https://https://gspp.berkeley.edu/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GPS">Home of the Critical Infrastructure Institute <script async defer src="https://buttons.github.io/buttons.js"></script></a>
+<a class="github-button" href="https://https://gspp.berkeley.edu/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GPS">Home of the Critical Infrastructure Institute </a>
