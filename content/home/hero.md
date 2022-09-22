@@ -61,4 +61,4 @@ Update: Thursday, September 22, 2022
 
 <a class="github-button" href="https://berkeley.edu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UC Berkeley is first in the world">Use all UC Berkeley resources: Public Policy, Engineering, Data Science, Business, Law</a><br>
 
-<a class="github-button" href="https://https://gspp.berkeley.edu/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GPS">Home of the Critical Infrastructure Institute</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://https://gspp.berkeley.edu/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GPS">Home of the Critical Infrastructure Institute <script async defer src="https://buttons.github.io/buttons.js"></script></a>
