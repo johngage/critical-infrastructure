@@ -30,8 +30,9 @@ hero_media: student.svg
 Update: Thursday, September 22, 2022
 
 - Goal: To explore new tools for infrastructure inventory and design.
-- With the arrival of new technologies of sensing, analysis and data discovery, a new landscape is emerging to understand the built environment. Today, we can build comprehensive digital models of structures, components, and their interactions. We can build ever-more-accurate models of flows of energy, water, heat, air, and chemical processes that affect these structures. From this, we can analyze each structure to guide investments in maintenance, repair, upgrade, redesign, demolition, and reconstruction for both the structures we build, and the systems we build to support them.
-- This site will evolve as new systems of data capture and model design evolve.
+- With the arrival of new technologies of sensing, analysis and data discovery, a new landscape is emerging to understand the built environment. Today, we can build comprehensive digital models of structures, components, and their interactions. We can build ever-more-accurate models of flows of energy, water, heat, air, and chemical processes that affect these structures. 
+- From this, we can analyze each structure, and the systems we build to support them, to guide investments in maintenance, repair, upgrade, redesign, demolition, and reconstruction. 
+- This site will evolve as new systems of data capture and model design emerge. We draw from the disciplines of civil engineering, urban design, environmental engineering, architecture, data science, and knowledge management.
 <hl>
 The initial website focus, as of Monday, October 25, 2021: Introduce software-defined buildings and infrastructure. Design an inventory of building and infrastructure stocks and flows. Build models of decentralized water and power systems to serve that inventory. Develop principles and practices of secure design. Explore topology optimization.
 
